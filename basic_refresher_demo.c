@@ -6,11 +6,15 @@
 <<<<<<< HEAD
 #define MAX_SAMPLES 6U
 #define MIN_SAMPLE (-50L)
+<<<<<<< HEAD
 =======
 #define MAX_SAMPLES 8U
 #define MIN_SAMPLE (-100L)
 >>>>>>> 8b65dfe250ea667054145a3119b2c8aea369f1d6
 #define MAX_SAMPLE 150L
+=======
+#define MAX_SAMPLE 140L
+>>>>>>> origin/QuyPV5
 #define EXIT_INVALID_INPUT 2
 
 static int parse_samples(const char *text,
