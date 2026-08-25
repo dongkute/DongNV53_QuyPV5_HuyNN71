@@ -5,7 +5,7 @@
 
 #define MAX_SAMPLES 8U
 #define MIN_SAMPLE (-50L)
-#define MAX_SAMPLE 150L
+#define MAX_SAMPLE 140L
 #define EXIT_INVALID_INPUT 2
 
 static int parse_samples(const char *text,
