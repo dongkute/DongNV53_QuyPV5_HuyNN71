@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX_SAMPLES 8U
-#define MIN_SAMPLE (-50L)
+#define MAX_SAMPLES 6U
+#define MIN_SAMPLE (-100L)
 #define MAX_SAMPLE 140L
 #define EXIT_INVALID_INPUT 2
 
